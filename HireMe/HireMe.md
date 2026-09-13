@@ -2,6 +2,8 @@
 
 **Jose Andres Cortes** · U.S. Citizen · Fluent in English & Spanish
 
+[← Back to Home](../)
+
 - [LinkedIn](https://linkedin.com/in/cortesjoseandres)
 - [Email](mailto:cortesjoseandreswork@gmail.com)
 - Phone: (512) 909-6080
