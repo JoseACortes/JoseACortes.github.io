@@ -38,29 +38,9 @@ body {
   flex: 0 0 220px;
 }
 
-.sidebar h1 {
-  font-size: 24px;
-  margin: 0 0 4px;
-}
-
-.sidebar h1 a {
-  color: var(--accent);
-  text-decoration: none;
-}
-
-.sidebar .tagline {
-  color: var(--muted);
-  font-size: 15px;
-  margin: 0 0 16px;
-}
-
-.sidebar .github-link {
-  font-size: 14px;
-}
-
 /* Main content */
 .content {
-  flex: 1 1 420px;
+  flex: 1 1 100%;
   min-width: 0;
 }
 
@@ -81,6 +61,7 @@ a {
 }
 
 img.profile {
+  width: 33.333%;
   max-width: 100%;
   height: auto;
   border-radius: 8px;
@@ -115,8 +96,5 @@ li {
   .wrapper {
     flex-direction: column;
     gap: 24px;
-  }
-  .sidebar {
-    flex: none;
   }
 }
