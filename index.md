@@ -1,6 +1,6 @@
 # Jose Andres Cortes
 
-[!HeadEyes](images/headeyes.png)
+![HeadEyes](images/headeyes.png)
 
 Ph.D. researcher in applied mathematics with a strong foundation in data science
 and statistical analysis. I turn raw data into defensible insights through
