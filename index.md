@@ -10,8 +10,8 @@ models against real-world measurements.
 
 ## Explore
 
-- [Hire Me](HireMe/HireMe.html) — my CV and contact information
-- [Music](Music/ReadMe.html) — my music projects
+- [Hire Me](HireMe/) — my CV and contact information
+- [Music](Music/) — my music projects
 
 ## Socials
 
